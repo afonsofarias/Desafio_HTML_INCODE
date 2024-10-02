@@ -3,4 +3,4 @@
 
 ## 📝 Descrição
 
-Este projeto é um **Desafio do Curso de HTML** desenvolvido em HTML.
+Este projeto é um Desafio do **Curso de HTML** desenvolvido em HTML.
